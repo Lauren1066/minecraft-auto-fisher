@@ -17,7 +17,7 @@ Before you start using the Auto Fisher, ensure that you have Python installed on
 
 3. **Install Dependencies:**
    - Open a command terminal and navigate to the directory where the script is located.
-   - Run the command `pip install -r requirements.txt` to install the necessary Python libraries.
+   - Run the setup.bat file, or run the command `pip install -r requirements.txt` to install the necessary Python libraries.
 
 4. **Script Configuration:**
    - Modify the configurable variables in the script as per your requirement.
@@ -26,5 +26,7 @@ Before you start using the Auto Fisher, ensure that you have Python installed on
    - In the game, enable subtitles.
    - Run the script by executing `python fishing.py` in the command terminal.
    - Start fishing!
-     
+## Credits
+Special thanks to [CoachSludge](https://github.com/CoachSludge) for the setup.bat file!
+
 **Ensure that the game window is visible on the screen and not minimized.**
